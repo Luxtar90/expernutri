@@ -30,7 +30,7 @@ Este es un sistema experto nutricional que ayuda a los usuarios a obtener un pla
 
 ## Uso
 
-1. Ejecuta el script `sistema_experto_nutricional_avanzado.py`.
+1. Ejecuta el script `sistema_experto_nutricional_gui.py`.
 2. Lee las instrucciones en la pantalla de inicio y haz clic en "Comenzar".
 3. Ingresa tus datos en los campos proporcionados.
 4. Haz clic en "Obtener Recomendación" para generar tu plan alimenticio.
